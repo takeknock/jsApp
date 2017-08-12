@@ -1,0 +1,17 @@
+{
+  "name": "real_estate_introduction",
+  "version": "0.0.1",
+  "description": "PDF writer for real estate introduction",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "electron ."
+  },
+  "keywords": [
+    "real_estate",
+    "test",
+    "pdf"
+  ],
+  "author": "mmatthew_43",
+  "license": "MIT"
+}
